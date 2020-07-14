@@ -1,5 +1,3 @@
-feature('DefaultCharacterSet','UTF-8');
-
 %% This section does some simple arithmetic
 
 % %% creates a cell block which could be run separately from the whole code
@@ -17,7 +15,7 @@ Multiline comments
 Multiline comments
 %}
 
-% Comment:  ?/
-% Uncomment: ?T
-% Run a piece of code:  ?Enter
-% Run all code:  ??R
+% Comment:  Cmd + /
+% Uncomment: Cmd + T
+% Run a piece of code:  Cmd + Enter
+% Run all code:  Cmd + Alt + R
