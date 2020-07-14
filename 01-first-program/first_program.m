@@ -1,6 +1,4 @@
-slCharacterEncoding('UTF-8');
-current = slCharacterEncoding();
-disp(current);
+feature('DefaultCharacterSet','UTF-8');
 
 %% This section does some simple arithmetic
 
