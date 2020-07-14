@@ -1,3 +1,7 @@
+slCharacterEncoding('UTF-8');
+current = slCharacterEncoding();
+disp(current);
+
 %% This section does some simple arithmetic
 
 % %% creates a cell block which could be run separately from the whole code
@@ -5,18 +9,17 @@
 % Single-line comment
 
 a = 4 + ... comment in the expression
-6
+6;
 
-disp(a)
+disp(a);
 
 %{
 Multiline comments
 Multiline comments
 Multiline comments
 %}
-1+1
 
-% Comment: ?-/
-% Uncomment: ?-T
-% Run a piece of code??R
+% Comment: ?/
+% Uncomment: ?T
+% Run a piece of code: ?R
 % Run all code: ??R
