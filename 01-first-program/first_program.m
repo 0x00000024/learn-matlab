@@ -17,7 +17,7 @@ Multiline comments
 Multiline comments
 %}
 
-% Comment: ?/
+% Comment:  ?/
 % Uncomment: ?T
-% Run a piece of code: ?R
-% Run all code: ??R
+% Run a piece of code:  ?Enter
+% Run all code:  ??R
